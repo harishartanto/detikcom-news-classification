@@ -1,0 +1,7 @@
+# Comparison of Classification Performance for Detikcom News Categorization Using Decision Tree, SVM, And Naive Bayes Methods
+
+<p align="justify"> News is a report that contains important, interesting, new, and timely information about opinions, events, situations, conditions, or interpretations that need to be communicated to the general public. In this current era of technology, news can be easily accessed through online news portals via the internet, including Detikcom. News categorization is generally done by online news portal administrators with the assistance of news content editors. However, many editors still categorize news manually. With the increasing number of articles, news administrators face difficulties as they have to read each news thoroughly and carefully to classify them into the most appropriate categories. Therefore, an automated news categorization system is needed by applying text mining methods.
+
+This research aims to compare the performance of three classification models in categorizing news: Decision Tree, Support Vector Machine (SVM), and Naïve Bayes. The news data used in this study was obtained through web scraping from <a href="https://detik.com">Detikcom</a>. The results of the research show that the SVM model with Radial Basis Function (RBF) kernel performs the best, achieving an accuracy rate of 86%. </p>
+
+For further information, please refer to the [Project Report](./Project%20Report.pdf).
